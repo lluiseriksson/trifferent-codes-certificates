@@ -1,0 +1,31 @@
+{
+  "schema": "TRIFF-CERT-1.0",
+  "id": "C12",
+  "mode": "log_enclosures_and_port_cuts",
+  "description": "Intermediate base g = 29/25 = 1.16 beating Korner-Marton with q=12 terms",
+  "claimed_g": [
+    29,
+    25
+  ],
+  "log_series_terms_q": 12,
+  "blocklength_per_k": 124,
+  "verify_Nbar_ge_gn": true,
+  "claimed_port_cuts": {
+    "pair_state_min": [
+      69,
+      224
+    ],
+    "all_equal_max": [
+      31,
+      64
+    ],
+    "linear_comb_max": [
+      31,
+      56
+    ],
+    "close_pair_max": [
+      93,
+      224
+    ]
+  }
+}

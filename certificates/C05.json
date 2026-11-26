@@ -1,0 +1,68 @@
+{
+  "schema": "TRIFF-CERT-1.0",
+  "id": "C05",
+  "mode": "section3_upper_bound",
+  "description": "Tetracode n=4, M=9 (optimal T(4)=9): exact D, Z, A, Eqs. (35)-(36), and D <= 96Z/n",
+  "verify_lemma32_table": true,
+  "blocklength_n": 4,
+  "codewords": [
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      2
+    ],
+    [
+      0,
+      2,
+      2,
+      1
+    ],
+    [
+      1,
+      0,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      2,
+      0
+    ],
+    [
+      1,
+      2,
+      0,
+      2
+    ],
+    [
+      2,
+      0,
+      2,
+      2
+    ],
+    [
+      2,
+      1,
+      0,
+      1
+    ],
+    [
+      2,
+      2,
+      1,
+      0
+    ]
+  ],
+  "claimed_M": 9,
+  "claimed_D": 72,
+  "claimed_Z": 9,
+  "claimed_A": 36
+}

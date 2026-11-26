@@ -1,0 +1,7 @@
+name = "TrifferentCodesCert"
+version = "1.0.0"
+defaultTargets = ["TrifferentCodesCert"]
+
+[[lean_lib]]
+name = "TrifferentCodesCert"
+roots = ["TrifferentCodesCert"]

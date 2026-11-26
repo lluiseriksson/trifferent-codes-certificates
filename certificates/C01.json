@@ -1,0 +1,11 @@
+{
+  "schema": "TRIFF-CERT-1.0",
+  "id": "C01",
+  "mode": "tetracode_and_agl19",
+  "description": "9-word tetracode over F_3^4 (d=3, 84 rainbow triples) and 72-element AGL(1,9) sharp 2-transitivity",
+  "claimed_code_size": 9,
+  "claimed_constant_distance": 3,
+  "claimed_rainbow_triples": 84,
+  "claimed_agl19_order": 72,
+  "claimed_ordered_distinct_pairs": 72
+}

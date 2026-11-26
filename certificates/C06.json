@@ -1,0 +1,50 @@
+{
+  "schema": "TRIFF-CERT-1.0",
+  "id": "C06",
+  "mode": "section3_upper_bound",
+  "description": "Tetracode 6-word subcode (n=4, M=6): exact binary-box counts and 3A <= 16Z",
+  "verify_lemma32_table": false,
+  "blocklength_n": 4,
+  "codewords": [
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      2
+    ],
+    [
+      0,
+      2,
+      2,
+      1
+    ],
+    [
+      1,
+      0,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      2,
+      0
+    ],
+    [
+      1,
+      2,
+      0,
+      2
+    ]
+  ],
+  "claimed_M": 6,
+  "claimed_D": 30,
+  "claimed_Z": 15,
+  "claimed_A": 15
+}

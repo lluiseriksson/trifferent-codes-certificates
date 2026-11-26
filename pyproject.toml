@@ -1,0 +1,11 @@
+[project]
+name = "trifferent-codes-certificates"
+version = "1.0.0"
+description = "Formal Lean 4.35.0 & zero-float exact rational certification for Trifferent Codes (arXiv:2611.33212v1)"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Lluis Eriksson"}]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

@@ -1,0 +1,34 @@
+{
+  "schema": "TRIFF-CERT-1.0",
+  "id": "C07",
+  "mode": "section3_upper_bound",
+  "description": "4-word n=3 trifferent code (boundary M=4 for Eq. 37): exact binary-box audit",
+  "verify_lemma32_table": false,
+  "blocklength_n": 3,
+  "codewords": [
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      2
+    ],
+    [
+      1,
+      2,
+      1
+    ],
+    [
+      2,
+      2,
+      0
+    ]
+  ],
+  "claimed_M": 4,
+  "claimed_D": 9,
+  "claimed_Z": 4,
+  "claimed_A": 3
+}

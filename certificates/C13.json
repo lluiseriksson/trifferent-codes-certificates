@@ -1,0 +1,31 @@
+{
+  "schema": "TRIFF-CERT-1.0",
+  "id": "C13",
+  "mode": "log_enclosures_and_port_cuts",
+  "description": "Yuan-Zhu benchmark base g = 144793/125000 = 1.158344 with q=15 terms",
+  "claimed_g": [
+    144793,
+    125000
+  ],
+  "log_series_terms_q": 15,
+  "blocklength_per_k": 124,
+  "verify_Nbar_ge_gn": true,
+  "claimed_port_cuts": {
+    "pair_state_min": [
+      69,
+      224
+    ],
+    "all_equal_max": [
+      31,
+      64
+    ],
+    "linear_comb_max": [
+      31,
+      56
+    ],
+    "close_pair_max": [
+      93,
+      224
+    ]
+  }
+}

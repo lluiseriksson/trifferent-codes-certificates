@@ -1,0 +1,28 @@
+{
+  "schema": "TRIFF-CERT-1.0",
+  "id": "C02",
+  "mode": "local_rule_counts",
+  "description": "Appendix A.1 exact local rule |Q|=43589145600 and pair counts H_0..H_14 via binomial inversion",
+  "claimed_NQ": 43589145600,
+  "claimed_H": [
+    8384898759,
+    14669424451,
+    11913950876,
+    5946128884,
+    2042090431,
+    514902852,
+    99986463,
+    15534218,
+    1991287,
+    215493,
+    20164,
+    1586,
+    131,
+    4,
+    1
+  ],
+  "claimed_expected_agreements": [
+    14,
+    9
+  ]
+}

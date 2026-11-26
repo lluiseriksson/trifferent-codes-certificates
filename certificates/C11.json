@@ -1,0 +1,31 @@
+{
+  "schema": "TRIFF-CERT-1.0",
+  "id": "C11",
+  "mode": "log_enclosures_and_port_cuts",
+  "description": "Certified g = 1162579/1000000 with q=40 high-precision exact rational log terms (width < 10^-38)",
+  "claimed_g": [
+    1162579,
+    1000000
+  ],
+  "log_series_terms_q": 40,
+  "blocklength_per_k": 124,
+  "verify_Nbar_ge_gn": true,
+  "claimed_port_cuts": {
+    "pair_state_min": [
+      69,
+      224
+    ],
+    "all_equal_max": [
+      31,
+      64
+    ],
+    "linear_comb_max": [
+      31,
+      56
+    ],
+    "close_pair_max": [
+      93,
+      224
+    ]
+  }
+}

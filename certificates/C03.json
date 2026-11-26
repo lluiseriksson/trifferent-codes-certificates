@@ -1,0 +1,30 @@
+{
+  "schema": "TRIFF-CERT-1.0",
+  "id": "C03",
+  "mode": "section3_upper_bound",
+  "description": "Optimal n=2, M=4 trifferent code + first-principles Lemma 3.2 central-hole contradiction (r=0,1,2)",
+  "verify_lemma32_table": true,
+  "blocklength_n": 2,
+  "codewords": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      2
+    ]
+  ],
+  "claimed_M": 4,
+  "claimed_D": 8,
+  "claimed_Z": 1,
+  "claimed_A": 2
+}

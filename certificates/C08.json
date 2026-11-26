@@ -1,0 +1,77 @@
+{
+  "schema": "TRIFF-CERT-1.0",
+  "id": "C08",
+  "mode": "section3_upper_bound",
+  "description": "9-word n=5 lifted tetracode: exact 3^5=243 binary-box audit and D <= 96Z/5",
+  "verify_lemma32_table": false,
+  "blocklength_n": 5,
+  "codewords": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      2,
+      0
+    ],
+    [
+      0,
+      2,
+      2,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      2,
+      0,
+      0
+    ],
+    [
+      1,
+      2,
+      0,
+      2,
+      0
+    ],
+    [
+      2,
+      0,
+      2,
+      2,
+      0
+    ],
+    [
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      2,
+      2,
+      1,
+      0,
+      0
+    ]
+  ],
+  "claimed_M": 9,
+  "claimed_D": 144,
+  "claimed_Z": 99,
+  "claimed_A": 144
+}
